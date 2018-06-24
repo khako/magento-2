@@ -1,0 +1,3 @@
+[submodule "magedock"]
+	path = magedock
+	url = https://github.com/khako/magedock.git
